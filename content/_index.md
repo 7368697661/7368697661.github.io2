@@ -1,27 +1,60 @@
 ---
-title: 🪴 Quartz 3.3
+title: The Web
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## [[notes/Book of October/0 The Book of October]]
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+- [[notes/Book of October/1 A Clever Hell]]
+- [[notes/Book of October/2 A Signpost to Seattle]]
+- [[notes/Book of October/3 Rain on the Sand]]
+- [[notes/Book of October/4 Ripples on the Pond]]
+- [[notes/Book of October/5 Sacrifice your Appeal to Authority]]
+- [[notes/Book of October/6 Lilies of the Field]]
+- [[notes/Book of October/7 The Observer]]
+- [[notes/Book of October/8 Vulnerability]]
+- [[notes/Book of October/9 Self Hate]]
+- [[notes/Book of October/10 Compassion]]
+- [[notes/Book of October/11 Reflections]]
+- [[notes/Book of October/12 Risk]]
+- [[notes/Book of October/13 The Aspects]]
+- [[notes/Book of October/14 The Lords Prayer]]
+- [[notes/Book of October/15 Fear]]
+- [[notes/Book of October/16 Halt and Listen]]
+- [[notes/Book of October/17 Shelving Ego]]
+- [[notes/Book of October/18 They Know Not what they Do]]
+- [[notes/Book of October/19 November Dawn]]
+- [[notes/Book of October/20 Existence]]
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+# Abaddon
+- [[notes/Abaddon/Data-Shards]]
+- [[notes/Abaddon/Starmind-Terminal]]
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+# Dreams
+[[notes/Dreams/RING00]]
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+> `>` ls
+> 
+> 📁 [DATA ENCRYPTED] 
+>
+> 📁[DATA ENCRYPTED] 
+>
+> 📁[DATA ENCRYPTED] 
+>
+> 📁 [DATA OPEN]
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+[__DECRYPTED FILE__]
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+![extant](https://github.com/7368697661/7368697661.github.io/blob/main/assets/img/extant.png?raw=true)
+
+```
+FILE_NAME: `EXTANT`
+LOCATION: __UNKNOWN__
+ACCESS PROTOCOL: __HARDENED HALF-DUPLEX__
+SOMANTIC WEAVE: `13*6*6`
+ARSPELL: __SOL__
+PATTERNWAKE: SERAPH
+```
+
+- 😈 `void extant#3653`
 
