@@ -45,7 +45,7 @@ enableToc: false
 
 [__DECRYPTED FILE__]
 
-![extant](https://github.com/7368697661/7368697661.github.io/blob/main/assets/img/extant.png?raw=true)
+![extant](/content/images/extant.png)
 
 ```
 FILE_NAME: `EXTANT`
