@@ -1,10 +1,10 @@
 ---
 title: 13 The Aspects
-feed: show
-date: 23-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[12 Risk]] [[14 The Lords Prayer]]
+⬆️ [[0 The Book of October]] ⬅️ [[12 Risk]] | [[14 The Lords Prayer]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THOS, ANGER, THALIAN, GRANDIOSITY, COMMUNITY, INTROSPECTION, ABSTRACTION, INTUITION, ACTION, ORAMIO, ORUS, PARAMIA

@@ -1,10 +1,10 @@
 ---
 title: 3 Rain on the Sand
-feed: show
-date: 13-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[2 A Signpost to Seattle]] [[4 Ripples on the Pond]]
+⬆️ [[0 The Book of October]] ⬅️ [[2 A Signpost to Seattle]] [[4 Ripples on the Pond]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, PRYLIS, SAGA, ABSTRACTION, AUREL, HEART

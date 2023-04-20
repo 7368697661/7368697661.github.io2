@@ -1,10 +1,10 @@
 ---
 title: 6 Lilies of the Field
-feed: show
-date: 16-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[5 Sacrifice your Appeal to Authority]] [[7 The Observer]]
+⬆️ [[0 The Book of October]] ⬅️ [[5 Sacrifice your Appeal to Authority]] | [[7 The Observer]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, ANIATIO, HEART, THALIAN, FAHIN, IMPULSIVITY, ORAMIO

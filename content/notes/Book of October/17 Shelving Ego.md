@@ -1,10 +1,10 @@
 ---
 title: 17 Shelving Ego
-feed: show
-date: 27-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[16 Halt and Listen]] [[18 They Know Not what they Do]]
+⬆️ [[0 The Book of October]] ⬅️ [[16 Halt and Listen]] | [[18 They Know Not what they Do]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ANGER, ACTION, THALIAN, HOPE, ABSTRACTION, KARPÓS

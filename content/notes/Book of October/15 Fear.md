@@ -1,10 +1,10 @@
 ---
 title: 15 Fear
-feed: show
-date: 25-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[14 The Lords Prayer]] [[16 Halt and Listen]]
+⬆️ [[0 The Book of October]] ⬅️ [[14 The Lords Prayer]] | [[16 Halt and Listen]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ABSTRACTION, LOGIC, IMPULSIVITY, ORUS, MYALO

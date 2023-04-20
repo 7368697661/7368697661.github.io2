@@ -1,10 +1,10 @@
 ---
 title: 7 The Observer
-feed: show
-date: 17-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[6 Lilies of the Field]] [[8 Vulnerability]]
+⬆️ [[0 The Book of October]] ⬅️ [[6 Lilies of the Field]] | [[8 Vulnerability]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, HEART, LOGIC, DECADENCE, FERCAE, ANGER, GRANDIOSITY, FAHIN

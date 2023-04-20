@@ -1,10 +1,10 @@
 ---
 title: 1 A Clever Hell
-feed: show
-date: 11-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[2 A Signpost to Seattle]]
+⬆️ [[0 The Book of October]] | [[2 A Signpost to Seattle]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, PRYLIS, PARAMIA, SKEPSI 

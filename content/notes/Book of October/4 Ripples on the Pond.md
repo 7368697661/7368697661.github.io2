@@ -1,10 +1,10 @@
 ---
 title: 4 Ripples on the Pond
-feed: show
-date: 14-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[3 Rain on the Sand]] [[5 Sacrifice your Appeal to Authority]]
+⬆️ [[0 The Book of October]] ⬅️ [[3 Rain on the Sand]] | [[5 Sacrifice your Appeal to Authority]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, PRYLIS, COMMUNITY, THALIAN, MINERVA, GRALEIV, ABSTRACTION, DENIRA, FAHIN, ELIAS, PARAMIA, ANGER

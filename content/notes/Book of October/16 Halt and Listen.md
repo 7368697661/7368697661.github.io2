@@ -1,10 +1,10 @@
 ---
 title: 16 Halt and Listen
-feed: show
-date: 26-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[15 Fear]] [[17 Shelving Ego]]
+⬆️ [[0 The Book of October]] ⬅️ [[15 Fear]] | [[17 Shelving Ego]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, FERCAE, INTROSPECTION, PRYLIS, ABSTRACTION, LOGIC

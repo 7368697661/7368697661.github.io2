@@ -1,10 +1,10 @@
 ---
 title: 10 Compassion
-feed: show
-date: 20-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[9 Self Hate]] [[11 Reflections]]
+⬆️ [[0 The Book of October]] ⬅️ [[9 Self Hate]] | [[11 Reflections]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, NOX, COMMUNITY, ABSTRACTION, INTROSPECTION, THALIAN, APEIRON, KYNZON, PRYLIS, HOPE

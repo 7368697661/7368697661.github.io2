@@ -1,10 +1,10 @@
 ---
 title: 18 They Know Not what they Do
-feed: show
-date: 28-10-2020
+tags:
+- boo
 ---
 
-[[0 The Book of October]] [[17 Shelving Ego]] [[19 November Dawn]]
+⬆️ [[0 The Book of October]] ⬅️ [[17 Shelving Ego]] | [[19 November Dawn]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ORUS, INTROSPECTION, PSYARO, HOPE, ABSTRACTION, FAHIN, PRYLIS, THOS, CHAM
