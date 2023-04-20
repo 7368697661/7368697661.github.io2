@@ -1,10 +1,10 @@
 ---
-title: 19 November Dawn
+title: November Dawn
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[18 They Know Not what they Do]] | [[20 Existence]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/18-they-know-not-what-they-do]] | [[notes/Book of October/20-existence]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THOS, PRYLIS, OBSERVER, HOPE, LOGIC, ANIATIO, HEART, GNODENTA, ABSTRACTION, DÝNAMI, PARAMIA

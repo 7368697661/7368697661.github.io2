@@ -1,10 +1,10 @@
 ---
-title: 16 Halt and Listen
+title: Halt and Listen
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[15 Fear]] | [[17 Shelving Ego]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/15-fear]] | [[notes/Book of October/17-shelving-ego]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, FERCAE, INTROSPECTION, PRYLIS, ABSTRACTION, LOGIC

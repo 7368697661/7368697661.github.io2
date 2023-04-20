@@ -1,10 +1,10 @@
 ---
-title: 18 They Know Not what they Do
+title: They Know Not what they Do
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[17 Shelving Ego]] | [[19 November Dawn]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/17-shelving-ego]] | [[notes/Book of October/19-november-dawn]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ORUS, INTROSPECTION, PSYARO, HOPE, ABSTRACTION, FAHIN, PRYLIS, THOS, CHAM

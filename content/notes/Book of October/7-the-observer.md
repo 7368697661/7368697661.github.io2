@@ -1,10 +1,10 @@
 ---
-title: 7 The Observer
+title: The Observer
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[6 Lilies of the Field]] | [[8 Vulnerability]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/6-lilies-of-the-field]] | [[notes/Book of October/8-vulnerability]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, HEART, LOGIC, DECADENCE, FERCAE, ANGER, GRANDIOSITY, FAHIN

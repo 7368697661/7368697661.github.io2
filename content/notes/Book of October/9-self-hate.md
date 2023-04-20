@@ -1,10 +1,10 @@
 ---
-title: 9 Self Hate
+title: Self Hate
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[8 Vulnerability]] | [[10 Compassion]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/8-vulnerability]] | [[notes/Book of October/10-compassion]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, PRYLIS, MERFOTIA, LOGIC, ANGER, THOS, THALIAN, SAGA, FAHIN, APEIRON, ELIAUO, HEART, INTROSPECTION, DELOIA

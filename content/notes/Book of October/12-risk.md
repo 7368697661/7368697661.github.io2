@@ -1,10 +1,10 @@
 ---
-title: 12 Risk
+title: Risk
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[11 Reflections]] | [[13 The Aspects]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/11-reflections]] | [[notes/Book of October/13 -the-aspects]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THALIAN, AUREL, LOGIC, COMMUNITY, THOS, INTROSPECTION, SERHOM, HUMOR, ANGER, HEART, SAGA, PARAMIA, ANIATIO, ORUS, ABSTRACTION, ACTION, GNODENTA, GRANDIOSITY

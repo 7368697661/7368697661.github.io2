@@ -1,5 +1,5 @@
 ---
-title: 20 Existence
+title: Existence
 tags:
 - boo
 ---

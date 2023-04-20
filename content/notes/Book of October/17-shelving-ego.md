@@ -1,10 +1,10 @@
 ---
-title: 17 Shelving Ego
+title: Shelving Ego
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[16 Halt and Listen]] | [[18 They Know Not what they Do]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/16-halt-and-listen]] | [[notes/Book of October/18-they-know-not-what-they-do]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ANGER, ACTION, THALIAN, HOPE, ABSTRACTION, KARPÓS

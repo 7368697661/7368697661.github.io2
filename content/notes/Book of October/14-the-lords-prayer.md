@@ -1,10 +1,10 @@
 ---
-title: 14 The Lords Prayer
+title: The Lords Prayer
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[13 The Aspects]] | [[15 Fear]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/13 -the-aspects]] | [[notes/Book of October/15-fear]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ANGER, GNODENTA, COMMUNITY, INTROSPECTION, THALIAN, ACTION, BORACLIES, THOS, GRANDIOSITY, BERO, ANIATIO, PARAMIA, ORAMIO

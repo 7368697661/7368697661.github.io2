@@ -1,10 +1,10 @@
 ---
-title: 15 Fear
+title: Fear
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[14 The Lords Prayer]] | [[16 Halt and Listen]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/14-the-lords-prayer]] | [[notes/Book of October/16-halt-and-listen]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ABSTRACTION, LOGIC, IMPULSIVITY, ORUS, MYALO

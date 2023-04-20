@@ -1,10 +1,10 @@
 ---
-title: 6 Lilies of the Field
+title: Lilies of the Field
 tags:
 - boo
 ---
 
-⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[5 Sacrifice your Appeal to Authority]] | [[7 The Observer]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/5-sacrifice-your-appeal-to-authority]] | [[notes/Book of October/7-the-observer]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, ANIATIO, HEART, THALIAN, FAHIN, IMPULSIVITY, ORAMIO
