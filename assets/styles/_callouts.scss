@@ -219,7 +219,7 @@ blockquote.failure-callout {
 
 blockquote.bug-callout {
   border: 1px solid #f9bc2c;
-  background: linear-gradient(43deg, #f9bc2c 0%, #f74c06 100%);
+  background: linear-gradient(43deg, #f74c06 0%, #f9bc2c 100%);
 }
 
 blockquote.quote-callout {
@@ -402,16 +402,16 @@ blockquote.danger-callout:hover {
 
 blockquote.bug-callout:hover {
   box-shadow: 
-  -24px 24px 69px -3px rgba(249, 188, 44, 0.3),
-  24px -24px 69px -3px rgba(247, 76, 6, 0.3);
+  -24px 24px 69px -3px rgba(247, 76, 6, 0.3),
+  24px -24px 69px -3px rgba(249, 188, 44, 0.3);
 
 -moz-box-shadow:
--24px 24px 69px -3px rgba(249, 188, 44, 0.3),
-24px -24px 69px -3px rgba(247, 76, 6, 0.3);
+-24px 24px 69px -3px rgba(247, 76, 6, 0.3),
+24px -24px 69px -3px rgba(249, 188, 44, 0.3);
 
 -webkit-box-shadow:
--24px 24px 69px -3px rgba(249, 188, 44, 0.3),
-24px -24px 69px -3px rgba(247, 76, 6, 0.3);
+-24px 24px 69px -3px rgba(247, 76, 6, 0.3),
+24px -24px 69px -3px rgba(249, 188, 44, 0.3);
 }
 
 blockquote.quote-callout:hover {
