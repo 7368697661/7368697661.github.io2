@@ -497,6 +497,31 @@ header {
   }
 }
 
+@-webkit-keyframes slide-in-bottom {
+  0% {
+    -webkit-transform: translateY(1000px);
+            transform: translateY(1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes slide-in-bottom {
+  0% {
+    -webkit-transform: translateY(1000px);
+            transform: translateY(1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1;
+  }
+}
+
 #search-container {
   position: fixed;
   z-index: 9999;
@@ -508,6 +533,8 @@ header {
   display: none;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  -webkit-animation: slide-in-bottom 0.5s cubic-bezier(0.075, 0.820, 0.165, 1.000) both;
+  animation: slide-in-bottom 0.5s cubic-bezier(0.075, 0.820, 0.165, 1.000) both;
 
   & > div {
     width: 50%;
