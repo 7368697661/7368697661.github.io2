@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 
-> [!info]+ [[notes/Book of October/0-the-book-of-october]]
+> [!info] [[notes/Book of October/0-the-book-of-october]]
 >
 > - [[notes/Book of October/1-a-clever-hell]]
 > - [[notes/Book of October/2-a-signpost-to-seattle]]
@@ -28,13 +28,13 @@ enableToc: false
 > - [[notes/Book of October/20-existence]]
 
 
-> [!NOTE]+ ## Abaddon
+> [!NOTE] Abaddon
 >
 > - [[notes/Abaddon/Data-Shards]]
 > - [[notes/Abaddon/Starmind-Terminal]]
 
 
-> [!NOTE]+ Dreams
+> [!NOTE] Dreams
 >
 > - [[notes/Dreams/RING00]]
 
