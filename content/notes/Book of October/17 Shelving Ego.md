@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[16 Halt and Listen]] | [[18 They Know Not what they Do]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[16 Halt and Listen]] | [[18 They Know Not what they Do]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, ANGER, ACTION, THALIAN, HOPE, ABSTRACTION, KARPÓS

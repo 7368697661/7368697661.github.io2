@@ -4,11 +4,11 @@ enableToc: false
 ---
 
 
-> [!info]- [[notes/Book of October/0 The Book of October]]
+> [!info]- [[notes/Book of October/0-the-book-of-october]]
 >
-> - [[notes/Book of October/1 A Clever Hell]]
-> - [[notes/Book of October/2 A Signpost to Seattle]]
-> - [[notes/Book of October/3 Rain on the Sand]]
+> - [[notes/Book of October/1-a-clever-hell]]
+> - [[notes/Book of October/2-a-signpost-to-seattle]]
+> - [[notes/Book of October/3-Rain-on-the-sand]]
 > - [[notes/Book of October/4 Ripples on the Pond]]
 > - [[notes/Book of October/5 Sacrifice your Appeal to Authority]]
 > - [[notes/Book of October/6 Lilies of the Field]]

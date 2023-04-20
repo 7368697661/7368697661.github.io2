@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[8 Vulnerability]] | [[10 Compassion]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[8 Vulnerability]] | [[10 Compassion]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, PRYLIS, MERFOTIA, LOGIC, ANGER, THOS, THALIAN, SAGA, FAHIN, APEIRON, ELIAUO, HEART, INTROSPECTION, DELOIA

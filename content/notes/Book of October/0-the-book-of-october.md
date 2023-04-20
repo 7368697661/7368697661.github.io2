@@ -1,5 +1,5 @@
 ---
-title: 0 The Book of October
+title: The Book of October
 tags:
 - boo
 ---
@@ -9,9 +9,9 @@ tags:
 
 ## Index:
 
-- [[1 A Clever Hell]]
-- [[2 A Signpost to Seattle]]
-- [[3 Rain on the Sand]]
+- [[notes/Book of October/1-a-clever-hell]]
+- [[notes/Book of October/2-a-signpost-to-seattle]]
+- [[notes/Book of October/3-Rain-on-the-sand]]
 - [[4 Ripples on the Pond]]
 - [[5 Sacrifice your Appeal to Authority]]
 - [[6 Lilies of the Field]]

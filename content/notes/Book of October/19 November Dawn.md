@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[18 They Know Not what they Do]] | [[20 Existence]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[18 They Know Not what they Do]] | [[20 Existence]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THOS, PRYLIS, OBSERVER, HOPE, LOGIC, ANIATIO, HEART, GNODENTA, ABSTRACTION, DÝNAMI, PARAMIA

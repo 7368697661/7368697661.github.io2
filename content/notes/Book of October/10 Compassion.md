@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[9 Self Hate]] | [[11 Reflections]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[9 Self Hate]] | [[11 Reflections]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, NOX, COMMUNITY, ABSTRACTION, INTROSPECTION, THALIAN, APEIRON, KYNZON, PRYLIS, HOPE

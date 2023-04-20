@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[3 Rain on the Sand]] | [[5 Sacrifice your Appeal to Authority]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/3-Rain-on-the-sand]] | [[5 Sacrifice your Appeal to Authority]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, PRYLIS, COMMUNITY, THALIAN, MINERVA, GRALEIV, ABSTRACTION, DENIRA, FAHIN, ELIAS, PARAMIA, ANGER

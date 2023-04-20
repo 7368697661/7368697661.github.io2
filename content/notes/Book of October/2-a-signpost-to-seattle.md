@@ -1,10 +1,10 @@
 ---
-title: 2 A Signpost to Seattle
+title: A Signpost to Seattle
 tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[1 A Clever Hell]] | [[3 Rain on the Sand]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[notes/Book of October/1-a-clever-hell]] | [[notes/Book of October/3-Rain-on-the-sand]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, ABSTRACTION, PRYLIS, PARAMIA, AUREL, FAHIN, ESCO, XOLL, LUCIRE

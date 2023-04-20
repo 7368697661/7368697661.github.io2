@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[12 Risk]] | [[14 The Lords Prayer]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[12 Risk]] | [[14 The Lords Prayer]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, THOS, ANGER, THALIAN, GRANDIOSITY, COMMUNITY, INTROSPECTION, ABSTRACTION, INTUITION, ACTION, ORAMIO, ORUS, PARAMIA

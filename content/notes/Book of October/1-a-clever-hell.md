@@ -1,10 +1,10 @@
 ---
-title: 1 A Clever Hell
+title: A Clever Hell
 tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] | [[2 A Signpost to Seattle]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] | [[notes/Book of October/2-a-signpost-to-seattle]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, PRYLIS, PARAMIA, SKEPSI 

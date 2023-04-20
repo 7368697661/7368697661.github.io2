@@ -4,6 +4,6 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[4 Ripples on the Pond]] | [[6 Lilies of the Field]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[4 Ripples on the Pond]] | [[6 Lilies of the Field]] ➡️
 
 This page is an artifact, you are safe to ignore it.

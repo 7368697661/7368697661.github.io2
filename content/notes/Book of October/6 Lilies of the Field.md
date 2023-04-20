@@ -4,7 +4,7 @@ tags:
 - boo
 ---
 
-⬆️ [[0 The Book of October]] ⬅️ [[5 Sacrifice your Appeal to Authority]] | [[7 The Observer]] ➡️
+⬆️ [[notes/Book of October/0-the-book-of-october]] ⬅️ [[5 Sacrifice your Appeal to Authority]] | [[7 The Observer]] ➡️
 
 > [!info]+ PERSONS OF THE DIALOGUE:
 > ASPIRATION, COMMUNITY, ANIATIO, HEART, THALIAN, FAHIN, IMPULSIVITY, ORAMIO
