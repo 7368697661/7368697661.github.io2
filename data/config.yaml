@@ -27,4 +27,4 @@ links:
   - link_name: GitHub
     link: https://github.com/7368697661
 favicon:
-  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
+  - { rel: "shortcut icon", href: "icon.png", type: "/static/image/png" }
