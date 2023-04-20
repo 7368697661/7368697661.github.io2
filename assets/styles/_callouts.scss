@@ -428,3 +428,11 @@ blockquote.quote-callout:hover {
 24px -24px 69px -3px rgba(133, 142, 150, 0.3);
 
 }
+
+blockquote[class*=-callout] a.internal-link,
+blockquote[class*=-callout] ul,
+blockquote[class*=-callout] p,
+blockquote[class*=-callout] ol,
+blockquote[class*=-callout] li {
+  color: white;
+}
