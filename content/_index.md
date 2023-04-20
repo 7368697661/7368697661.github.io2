@@ -5,6 +5,7 @@ enableToc: false
 
 
 > [!info]- [[notes/Book of October/0 The Book of October]]
+>
 > - [[notes/Book of October/1 A Clever Hell]]
 > - [[notes/Book of October/2 A Signpost to Seattle]]
 > - [[notes/Book of October/3 Rain on the Sand]]
@@ -28,11 +29,13 @@ enableToc: false
 
 
 > [!NOTE]- ## Abaddon
+>
 > - [[notes/Abaddon/Data-Shards]]
 > - [[notes/Abaddon/Starmind-Terminal]]
 
 
 > [!NOTE]- Dreams
+>
 > - [[notes/Dreams/RING00]]
 
 > `>` ls
