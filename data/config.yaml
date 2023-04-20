@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/7368697661/second-brain/tree/hugo/content
@@ -26,3 +26,5 @@ links:
     link: https://twitter.com/seraphim_extant
   - link_name: GitHub
     link: https://github.com/7368697661
+favicon:
+  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
