@@ -546,7 +546,7 @@ header {
 
     & > * {
       width: 100%;
-      border-radius: 4px;
+      border-radius: 8px;
       background: var(--light);
       box-shadow: 0 14px 50px rgba(27, 33, 48, 0.12), 0 10px 30px rgba(27, 33, 48, 0.16);
       margin-bottom: 2em;
@@ -558,7 +558,7 @@ header {
       font-family: var(--font-body);
       color: var(--dark);
       font-size: 1.1em;
-      border: 1px solid var(--outlinegray);
+      border: 1px solid var(--dark);
 
       &:focus {
         outline: none;
