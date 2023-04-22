@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 
-> [!info] [[notes/Book of October/0-the-book-of-october]]
+> [!success] [[notes/Book of October/0-the-book-of-october]]
 >
 > - [[notes/Book of October/1-a-clever-hell]]
 > - [[notes/Book of October/2-a-signpost-to-seattle]]
@@ -28,28 +28,36 @@ enableToc: false
 > - [[notes/Book of October/20-existence]]
 
 
-> [!NOTE] Abaddon
->
-> - [[notes/Abaddon/Data-Shards]]
-> - [[notes/Abaddon/Starmind-Terminal]]
+> [!abstract] Abaddon
+> - [[notes/Abaddon/RING00]]
+> - [[notes/Abaddon/PREM]]
 
 
-> [!NOTE] Dreams
->
-> - [[notes/Dreams/RING00]]
+
+> [!example] Dreams
+> - [[notes/Dreams/Data-Shards]]
+> - [[notes/Dreams/Starmind-Terminal]]
+> - [[notes/Dreams/FILE1]]
+> - [[notes/Dreams/file2]]
+> - [[notes/Dreams/CRYPT_1]]
+> - [[notes/Dreams/AEONS GIFT]]
+> - [[notes/Dreams/MIRRORVAULT005]]
+> - [[notes/Dreams/CAUSAL FAILURE 1]]
+> - [[notes/Dreams/CAUSAL FAILURE 2]]
+> - [[notes/Dreams/Starmind-Terminal]]
+
+> [!NOTE] edits
+> - [[notes/edits/Shapes in the Noise]]
+
 
 > `>` ls
 > 
 > 📁 [DATA ENCRYPTED] 
->
 > 📁[DATA ENCRYPTED] 
->
 > 📁[DATA ENCRYPTED] 
->
 > 📁 [DATA OPEN]
 
 [__DECRYPTED FILE__]
-
 ![extant](https://github.com/7368697661/7368697661.github.io/blob/hugo/content/assets/extant.png?raw=true)
 
 ```
