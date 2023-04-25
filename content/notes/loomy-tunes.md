@@ -1,5 +1,5 @@
 ---
-title: "Songs to Loom to"
+title: "Loomy Tunes"
 ---
 - [SIDE E | savant shadow (bandcamp.com)](https://savantshadow.bandcamp.com/track/side-e-3)
 - [海に石を投げる | savant shadow (bandcamp.com)](https://savantshadow.bandcamp.com/track/--53)
