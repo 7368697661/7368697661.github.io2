@@ -12,6 +12,11 @@
   --outlinegray: #ced4da;
   --million-progress-bar-color: var(--secondary);
   --highlighted: #f5dfaf88;
+  --bg-grad: radial-gradient(
+    circle 600px at calc(100% - 300px) 300px,
+    #e1f0ff,
+    #f7f3f3
+  )
 }
 
 [saved-theme="dark"] {
@@ -25,6 +30,11 @@
   --lightgray: #212529 !important;
   --outlinegray: #ced4da !important;
   --highlighted: #d9ed9288;
+  --bg-grad: radial-gradient(
+    circle 600px at calc(100% - 300px) 300px,
+    #e1f0ff,
+    #f7f3f3
+  )
 }
 
 
