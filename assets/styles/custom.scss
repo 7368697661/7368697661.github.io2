@@ -1,7 +1,7 @@
 // Add your own CSS here!
 
 :root {
-  --light: #f8f9fa;
+  --light: #ffffff;
   --dark: #212529;
   --secondary: #343a40;
   --tertiary: #b5838d;
@@ -20,8 +20,8 @@
 }
 
 [saved-theme="dark"] {
-  --light: #212529 !important;
-  --dark: #f8f9fa !important;
+  --light: #000000 !important;
+  --dark: #ffffff !important;
   --secondary: #d9ed92 !important;
   --visited: #b5e48c !important;
   --tertiary: #99d98c !important;

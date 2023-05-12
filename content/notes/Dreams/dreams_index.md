@@ -1,3 +1,7 @@
+---
+title: Dreams, Index
+---
+
 > [!example] Dreams
 > - [[notes/Dreams/Data-Shards]]
 > - [[notes/Dreams/Starmind-Terminal]]

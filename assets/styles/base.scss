@@ -293,7 +293,7 @@ article {
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
-      text-shadow: 0px 0px 20px rgba(160, 255, 36, 0.3);
+      text-shadow: 0px 0px 20px rgba(217, 237, 146, 0.3);
 
       &.broken {
         opacity: 0.5;
@@ -352,7 +352,7 @@ sup > a {
   margin: 0;
   & > a {
     font-family: var(--font-title);
-    color: white;
+    color: var(--dark);
     font-weight: 300;
     text-shadow: 0px 0px 20px rgba(255,255,255,0.3);
   }
