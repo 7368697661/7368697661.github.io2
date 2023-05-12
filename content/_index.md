@@ -20,7 +20,7 @@ In these pages are kept poor imitations of other people's fine words, **[██�
 
 In these pages are kept dreams for you to read; **[████████]** papers, essays and the scratching notes I made while writing them.
 
-In these pages are kept wires, dreams in parallel hypnogagial existence; **[[AEONS GIFT|[████████] ]]** projections of what could be, what must be.
+In these pages are kept wires, dreams in parallel hypnogagial existence; **[[[████████] ]]** projections of what could be, what must be.
 
 In these pages are kept fictitious events and characters; **[████████]**;stories which articulate far more than I ever could.
 
