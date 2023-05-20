@@ -1,3 +1,8 @@
+---
+title: Cerin, 1
+enableToc: false
+---
+
 Your breath catches in your throat, the dry winds carrying fine dust and sand. It’s the wastes out here, worse than that, there’s a storm coming. You can see the plume of sand far off to the left, dark as night and coming far more quickly. Behind you, you hear the whine of a Gauss personnel defender rifle, a PDR-E, and the sound of flechette hitting the ground just to your right.
 
   
