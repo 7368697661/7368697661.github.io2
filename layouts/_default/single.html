@@ -7,7 +7,6 @@
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
-    <div class="test">
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
@@ -29,7 +28,6 @@
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
     </article>
-  </div>
     {{partial "footer.html" .}}
 </div>
 </body>

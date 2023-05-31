@@ -94,7 +94,7 @@ body {
   width: 100vw;
   max-width: 100%;
   box-sizing: border-box;
-  background-color: var(--lightgray);
+  background-color: var(--light);
 }
 
 h1, h2, h3, h4, h5, h6, thead {
@@ -778,19 +778,3 @@ mark {
   background-color: var(--highlighted);
   color: var(--gray);
 }
-
-@media screen and (max-width: 3880px) {
-.test {
-  background: var(--light);
-  border-radius: 16px;
-  padding: 1em 4em;
-}
-}
-
-@media screen and (max-width: 1080px) {
-  .test {
-    background: var(--light);
-    border-radius: 16px;
-    padding: 1em 1em;
-  }
-  }
